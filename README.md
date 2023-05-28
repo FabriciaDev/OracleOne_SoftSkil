@@ -6,3 +6,5 @@ https://www.alura.com.br/artigos/tecnica-pomodoro
 https://www.alura.com.br/artigos/planejando-meus-estudos
 ## Curso sobre foco:
 https://docs.google.com/document/d/1_J_4SZuSVcCWvCrZqeO6AZdNa9hnTiiceTXeZS-LfbE/edit?usp=sharing
+## Vídeo sobre mapas mentais:
+https://www.youtube.com/watch?v=CZwMOdN5hyY
