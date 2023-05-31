@@ -10,5 +10,3 @@ https://docs.google.com/document/d/1_J_4SZuSVcCWvCrZqeO6AZdNa9hnTiiceTXeZS-LfbE/
 https://www.youtube.com/watch?v=CZwMOdN5hyY
 ## Artigo sobre Hábitos: Como melhorá-los:
 https://www.alura.com.br/artigos/habitos-como-melhora-los
-## Curso Hábitos: da Produtividade às Metas Pessoais:
-https://docs.google.com/document/d/1HqreNhBsC-b1VyXD2Oes6KZW81ZjP8oizUCeKKk1xNE/edit?usp=sharing
